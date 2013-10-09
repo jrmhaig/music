@@ -2,8 +2,8 @@ music
 =====
 
 * Cererols
-** Ay Que Dolor
+ * Ay Que Dolor
 * Stainer
-** How Beautiful Upon the Mountains
+ * How Beautiful Upon the Mountains
 * Stanford
-** O For a Closer Walk
+ * O For a Closer Walk
