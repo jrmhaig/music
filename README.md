@@ -1,4 +1,9 @@
 music
 =====
 
-Various music related things
+* Cererols
+** Ay Que Dolor
+* Stainer
+** How Beautiful Upon the Mountains
+* Stanford
+** O For a Closer Walk
