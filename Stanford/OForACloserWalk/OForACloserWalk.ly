@@ -419,7 +419,7 @@ basWords = \lyricmode {
     >>
   >>
   \layout {
-    #(layout-set-staff-size 26)
+%    #(layout-set-staff-size 26)
   }
   \midi {}
 }
