@@ -230,7 +230,7 @@ altWords = \lyricmode {
     li -- ri -- o el que~es blan -- ca flor.
   Ay, ay, qué do -- lor!
   En -- lu -- te sus ra -- yos, sus ra -- yos,
-  En -- lu -- te sus ra -- yos, sus rayos,
+  En -- lu -- te sus rayos, sus ra -- yos,
   y e -- clip -- se~el sol,
   y e -- clip -- se~el sol,
   y e -- clip -- se~el sol.
